@@ -1,0 +1,5 @@
+C:\batch215\day06PR\sLatihanDay06\caDay06quiz\bin\Debug\caDay06quiz.exe.config
+C:\batch215\day06PR\sLatihanDay06\caDay06quiz\bin\Debug\caDay06quiz.exe
+C:\batch215\day06PR\sLatihanDay06\caDay06quiz\bin\Debug\caDay06quiz.pdb
+C:\batch215\day06PR\sLatihanDay06\caDay06quiz\obj\Debug\caDay06quiz.exe
+C:\batch215\day06PR\sLatihanDay06\caDay06quiz\obj\Debug\caDay06quiz.pdb
